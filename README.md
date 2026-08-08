@@ -36,4 +36,20 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## String
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
