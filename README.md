@@ -52,4 +52,12 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
