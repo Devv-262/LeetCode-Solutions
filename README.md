@@ -14,6 +14,7 @@ Collection of my LeetCode solutions automatically synced
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -72,4 +73,8 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
