@@ -16,6 +16,7 @@ Collection of my LeetCode solutions automatically synced
 | ------- |
 | [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -69,10 +70,12 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
