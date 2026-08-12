@@ -6,6 +6,7 @@ Collection of my LeetCode solutions automatically synced
 ## Math
 |  |
 | ------- |
+| [1922-count-good-numbers](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -66,6 +67,7 @@ Collection of my LeetCode solutions automatically synced
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
