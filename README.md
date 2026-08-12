@@ -15,6 +15,7 @@ Collection of my LeetCode solutions automatically synced
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -39,6 +40,7 @@ Collection of my LeetCode solutions automatically synced
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -81,5 +83,18 @@ Collection of my LeetCode solutions automatically synced
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
