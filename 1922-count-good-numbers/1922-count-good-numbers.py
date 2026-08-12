@@ -1,10 +1,13 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
-        Mod=10**9+7
-        def powMod(x, exp):
-            if exp==0: return 1
-            y=x if (exp&1)==1 else 1
-            return y*powMod((x*x)%Mod, exp>>1)%Mod
-        n0=(n+1)//2
-        n1=n-n0
-        return powMod(5, n0)*powMod(4, n1)%Mod
+        mod = 10**9 + 7
+        def quickmul(x: int, y: int) -> int:
+            ret, mul = 1, x
+            while y > 0:
+                if y % 2 == 1:
+                    ret = ret * mul % mod
+                mul = mul * mul % mod
+                y //= 2
+            return ret
+
+        return quickmul(5, (n + 1) // 2) * quickmul(4, n // 2) % mod
