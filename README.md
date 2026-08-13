@@ -46,6 +46,7 @@ Collection of my LeetCode solutions automatically synced
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -64,6 +65,7 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -101,4 +103,16 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
