@@ -17,6 +17,7 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ Collection of my LeetCode solutions automatically synced
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -113,6 +115,7 @@ Collection of my LeetCode solutions automatically synced
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
