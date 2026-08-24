@@ -20,6 +20,7 @@ Collection of my LeetCode solutions automatically synced
 | [0016-3sum-closest](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -61,6 +62,7 @@ Collection of my LeetCode solutions automatically synced
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -111,6 +113,7 @@ Collection of my LeetCode solutions automatically synced
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
