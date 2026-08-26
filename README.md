@@ -53,6 +53,7 @@ Collection of my LeetCode solutions automatically synced
 | [0001-two-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -67,6 +68,7 @@ Collection of my LeetCode solutions automatically synced
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@ Collection of my LeetCode solutions automatically synced
 | ------- |
 | [0016-3sum-closest](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
 | ------- |
