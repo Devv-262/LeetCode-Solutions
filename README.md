@@ -6,6 +6,7 @@ Collection of my LeetCode solutions automatically synced
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1922-count-good-numbers](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -20,6 +21,7 @@ Collection of my LeetCode solutions automatically synced
 | [0016-3sum-closest](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -114,6 +116,7 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
 |  |
