@@ -70,6 +70,7 @@ Collection of my LeetCode solutions automatically synced
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
