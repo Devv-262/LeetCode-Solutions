@@ -7,6 +7,7 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -78,6 +79,7 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -155,4 +157,8 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
