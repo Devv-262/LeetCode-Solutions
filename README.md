@@ -20,6 +20,7 @@ Collection of my LeetCode solutions automatically synced
 | ------- |
 | [0001-two-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0048-rotate-image) |
@@ -54,6 +55,7 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -119,6 +121,7 @@ Collection of my LeetCode solutions automatically synced
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
