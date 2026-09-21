@@ -164,4 +164,16 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
