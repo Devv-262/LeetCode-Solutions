@@ -167,6 +167,7 @@ Collection of my LeetCode solutions automatically synced
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -176,4 +177,12 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
