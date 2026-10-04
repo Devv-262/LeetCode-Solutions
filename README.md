@@ -76,16 +76,19 @@ Collection of my LeetCode solutions automatically synced
 | [0006-zigzag-conversion](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
@@ -108,6 +111,7 @@ Collection of my LeetCode solutions automatically synced
 | [0234-palindrome-linked-list](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,4 +189,8 @@ Collection of my LeetCode solutions automatically synced
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
