@@ -32,6 +32,7 @@ Collection of my LeetCode solutions automatically synced
 | [0904-fruit-into-baskets](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3242-design-neighbor-sum-service](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ Collection of my LeetCode solutions automatically synced
 | [0424-longest-repeating-character-replacement](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [3242-design-neighbor-sum-service](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -129,6 +131,7 @@ Collection of my LeetCode solutions automatically synced
 | [0037-sudoku-solver](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [3242-design-neighbor-sum-service](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Algorithm X
 |  |
 | ------- |
@@ -173,10 +176,12 @@ Collection of my LeetCode solutions automatically synced
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Devv-262/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+| [3242-design-neighbor-sum-service](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Simulation
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Devv-262/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+| [3242-design-neighbor-sum-service](https://github.com/Devv-262/LeetCode-Solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Counting
 |  |
 | ------- |
